@@ -1,7 +1,7 @@
 # Netflix Clone
 
-
-Tutorial: https://youtu.be/XtMThy8QKqU
+Left off at 50:49
+Tutorial by Clever Programmers: https://youtu.be/XtMThy8QKqU
 
 ## Getting Started with Create React App
 
