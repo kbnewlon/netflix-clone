@@ -6,7 +6,7 @@
 ## Description
 This Front-end Netflix Clone application uses React with Firebase Hosting. It pulls in movies from The Movie Database (TMDb) and maps through the different categories to display in the way Netflix does. 
 <br><br>
-Deployed Firebase LinkL: https://netflix-clone-30b09.web.app/
+Deployed Firebase Link: https://netflix-clone-30b09.web.app/
 <br>
 Tutorial by Clever Programmers. Link below.
 
