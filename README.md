@@ -1,75 +1,42 @@
 # Netflix Clone
 
 
-Tutorial by Clever Programmers: https://youtu.be/XtMThy8QKqU
-Deployed Application with Firebase: https://netflix-clone-30b09.web.app/
-## Getting Started with Create React App
+![GitHub top language](https://img.shields.io/github/languages/top/kbnewlon/netflix-clone) ![Libraries.io dependency status for GitHub repo](https://img.shields.io/badge/license-MIT_License-yellowgreen)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+This Front-end Netflix Clone application uses React with Firebase Hosting. It pulls in movies from The Movie Database (TMDb) and maps through the different categories to display in the way Netflix does. 
+<br><br>
+Deployed Firebase LinkL: https://netflix-clone-30b09.web.app/
+<br>
+Tutorial by Clever Programmers. Link below.
 
-## Available Scripts
 
-In the project directory, you can run:
+## **Table of Contents**
+1. [Usage](#usage)
+2. [Technologies](#technologies)
+3. [Questions](#questions)
+4. [Visuals](#visuals)
+5. [Links](#links)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## **Usage**
+Click on a movie posters to watch their trailer. Application is set up to do nothing if a trailer is not found on YouTube. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## **Technologies**
+* React
+* Firebase Hosting
+* React-Youtube
+* Movie-Trailer
+* Axios
+* TMDb API
 
-### `npm test`
+## **Questions**
+Contact me at kayla.b.newlon@gmail.com for any questions 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **Visuals**
+![Screenshot of Application](readme-images/screenshot_app.PNG)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## **Links**
+Repo: https://github.com/kbnewlon/netflix-clone<br>
+Deployed Firebase LinkL: https://netflix-clone-30b09.web.app/<br>
+Tutorial by Clever Programmers: https://youtu.be/XtMThy8QKqU 
