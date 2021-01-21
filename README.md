@@ -1,8 +1,8 @@
 # Netflix Clone
 
-Left off at 50:49
-Tutorial by Clever Programmers: https://youtu.be/XtMThy8QKqU
 
+Tutorial by Clever Programmers: https://youtu.be/XtMThy8QKqU
+Deployed Application with Firebase: https://netflix-clone-30b09.web.app/
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
